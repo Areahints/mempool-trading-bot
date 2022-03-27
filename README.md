@@ -1,6 +1,8 @@
 ### About
 Leaked shit from cniper[.]xyz
 
+Donate: `0x1dcA3952c1fEC91c2faFb2E2209e55150AF80D05`
+
 ![alt text](https://github.com/NFTERA/mempool-trading-bot/blob/main/screen1.png?raw=true)
 
 
